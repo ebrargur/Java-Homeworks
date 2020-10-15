@@ -30,7 +30,7 @@ public class myfirst {
 
 	}
 	else{
-	System.out.println("Invalid Credentials,Please try again later!");
+	System.out.println("Invalid Credentials");
 
 	}
 
